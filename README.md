@@ -93,7 +93,7 @@ Android Components Used:
 
 | HomeScreen | Emergency SOS Service  | Spy Camera Detector |
 |:-:|:-:|:-:|
-| ![First](https://user-images.githubusercontent.com/57634381/132382299-b1df131f-29f7-4b0d-b82b-f5579b200991.jpeg) | ![Sec](https://user-images.githubusercontent.com/57634381/132382430-823a704a-0481-447d-b6c6-4cc5636efc66.jpeg) | ![Third](https://user-images.githubusercontent.com/57634381/132382545-5e5b1248-4a60-4512-b925-922e5d11cda3.jpeg)
+| ![First](https://user-images.githubusercontent.com/57634381/132382299-b1df131f-29f7-4b0d-b82b-f5579b200991.jpeg) | ![Sec](https://user-images.githubusercontent.com/57634381/132382430-823a704a-0481-447d-b6c6-4cc5636efc66.jpeg) | 
 
 | Manual Detection | Women's News | App Tour |
 |:-:|:-:|:-:|

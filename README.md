@@ -108,9 +108,7 @@ Android Components Used:
 |:-:|:-:|:-:|
 |![Fourth](https://user-images.githubusercontent.com/57634381/132382643-be8854ba-ad53-4681-81b0-1a73c262df05.jpeg) | ![Fifth](https://user-images.githubusercontent.com/57634381/132382751-a2d06419-bce4-4399-b2d4-1c29d4d7667e.jpeg) | ![Sixth](https://user-images.githubusercontent.com/57634381/132382829-6658351b-5b56-4e44-ad04-fc94d51b1dfa.jpeg) |
 
-| About Us | Share App |
-|:-:|:-:|
-| ![Third](https://user-images.githubusercontent.com/57634381/132382911-36f99188-3ae2-4fe7-b735-6b39ee3fe363.jpeg) | ![Fourth](https://user-images.githubusercontent.com/57634381/132383019-508dc1dd-39bf-4c79-9bb6-6725f18d9864.jpeg) |
+
 
 ## Authors
 

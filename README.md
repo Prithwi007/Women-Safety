@@ -112,7 +112,5 @@ Android Components Used:
 
 ## Authors
 
-- [@Moheeeetgupta](https://github.com/Moheeeetgupta)
-- [@sakshi-123-eng](https://github.com/sakshi-123-eng)
-- [@shivi7519](https://github.com/shivi7519)
+- Prithwi Das
 
